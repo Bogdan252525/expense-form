@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expense-form/static/css/main.96d25427.css",
+    "main.js": "/expense-form/static/js/main.d8ecb4fe.js",
+    "index.html": "/expense-form/index.html",
+    "main.96d25427.css.map": "/expense-form/static/css/main.96d25427.css.map",
+    "main.d8ecb4fe.js.map": "/expense-form/static/js/main.d8ecb4fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96d25427.css",
+    "static/js/main.d8ecb4fe.js"
+  ]
+}
